@@ -1,6 +1,6 @@
 # KRATRIT
 This is a simple e-commerce website built with React and hosted online using Firebase. The website fetches data from Firebase, which serves as the database for the project. It includes basic e-commerce features such as product listing, a shopping cart, and a checkout interface. The site is fully functional without a traditional backend 
-For more details, check out the [KRATRIT.web.app(https://kratrit-c0e6d.web.app/)](README.md)
+For more details, check out the [[KRATRIT.web.app](https://kratrit-c0e6d.web.app/)](README.md)
 Here are some pictures to get an idea of ​​the project.
 ![Screenshot 2024-11-30 102655](https://github.com/user-attachments/assets/29502e8d-60e9-4c48-be24-e52d7002a288)
 
