@@ -1,8 +1,7 @@
 # KRATRIT
-A repository for an e-commerce website that offers a seamless shopping experience. Features include user-friendly navigation, secure payments, product management ,
-In this project, I used techniques such as:
-Connecting with Google via Firebase, as well as dynamic data stored on Firebase Firestore, such as adding addresses, payment methods, creating orders, and more.
-
+This is a simple e-commerce website built with React and hosted online using Firebase. The website fetches data from Firebase, which serves as the database for the project. It includes basic e-commerce features such as product listing, a shopping cart, and a checkout interface. The site is fully functional without a traditional backend 
+For more details, check out the [[README.md](https://kratrit-c0e6d.web.app/)](README.md)
+Here are some pictures to get an idea of ​​the project.
 ![Screenshot 2024-11-30 102655](https://github.com/user-attachments/assets/29502e8d-60e9-4c48-be24-e52d7002a288)
 
 ![Screenshot 2024-11-30 102721](https://github.com/user-attachments/assets/5672a7c9-ee2b-4b0f-b33f-588e6f49f4c8)
